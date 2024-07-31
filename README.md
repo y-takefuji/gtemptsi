@@ -20,6 +20,11 @@ $ pip install gtemptsi
 $ gtemptsi
 Enter the beginning year-month (e.g. 1978-11): 1996-06
 Enter the end year-month (e.g. 2023-03): 1998-12
+
+solid line: global surface temperature
+dotted line: linear regression of temperature
+dashed line: TSI
+dashdot line: linear regression of TSI
 </pre>
 <img src='https://github.com/y-takefuji/gtemptsi/raw/main/199606_199812.png' width=640 height=480>
 
