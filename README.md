@@ -7,7 +7,7 @@ The global surface temperature and TSI are publicly available at the NOAA sites.
 
 TSI (W/m**2): https://www.ncei.noaa.gov/data/total-solar-irradiance/access/monthly/
 
-Global surface temperature (K:Kelvin): https://www.ncei.noaa.gov/data/noaa-global-surface-temperature/v5.1/access/timeseries/
+Global surface temperature (K: Kelvin): https://www.ncei.noaa.gov/data/noaa-global-surface-temperature/v5.1/access/timeseries/
 
 gtemptsi download datasets automatically and save them as tsi.csv (TSI dataset) and noaa.csv (global surface temperature dataset).
 
