@@ -1,4 +1,4 @@
-# gtemptsi
+# gtemptsi 
 
 gtemptsi is a PyPI application for visualizing four lines of global surface temperature and total solar irradiance, and their linear-regression lines with R-squared, slope and intercept, and p-value.
 
